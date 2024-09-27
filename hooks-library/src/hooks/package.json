@@ -1,0 +1,15 @@
+{
+  "name": "multi-use-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarvjyoti",
+  "license": "ISC",
+  "description": "",
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
